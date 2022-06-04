@@ -1,5 +1,14 @@
-# Data-Mining-Project
-### Data Mining Project 2021-2022
+# Data Mining
+## Data Mining Project 2021-2022   
+   
+**MSc:** Data Science and Advanced Analytics, NOVA IMS   
+**Grade:** 16.50 out of 20  
+   
+**Group Members:**   
+\- Inês Ribeiro   
+\- José Dias (https://github.com/josedias97)
+    
+### Description   
 
 This project is about an insurance company that operates in Portugal.
 
