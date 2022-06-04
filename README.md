@@ -11,7 +11,6 @@
 ### Description   
 
 This project is about an insurance company that operates in Portugal.
-
 The goal is to develop a Customer Segmentation based on a database of 10.290 customers.
 
 With this Customer Segmentation, the company will be able to improve their performance. 
