@@ -21,5 +21,5 @@ The final cluster solution, was achieved through a merge between a Value and a C
 <br>
    
 **Group Members:**   
-\- Inês Ribeiro (https://github.com/InesFRibeiro)
+\- Inês Ribeiro (https://github.com/InesFRibeiro)   
 \- José Dias (https://github.com/josedias97)
