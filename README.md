@@ -18,8 +18,7 @@ During this project, the data was worked in a way that would be beneficial for t
 The final cluster solution, was achieved through a merge between a Value and a Consumptions perspectives, and resulted in 4 different clusters of customers. A marketing campaign/gameplan was suggested to try to get the most out of the campaigns that the company has.    
      
 <br>
-<br>
-   
+
 **Group Members:**   
 \- Inês Ribeiro (https://github.com/InesFRibeiro)   
 \- José Dias (https://github.com/josedias97)
