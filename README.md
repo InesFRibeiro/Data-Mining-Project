@@ -1,5 +1,5 @@
-# Data Mining
-## Data Mining Project 2021-2022   
+# Data Mining Project 2021-2022
+## Customer Segmentation  
    
 **MSc:** Data Science and Advanced Analytics, NOVA IMS   
 **Grade:** 16.50 out of 20  
